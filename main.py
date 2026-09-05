@@ -1,5 +1,5 @@
 def main():
-    print("Hello from пайтон-622-git!!!!")
+    print("Привет, группа Python622!!!!")
 
 
 if __name__ == "__main__":
